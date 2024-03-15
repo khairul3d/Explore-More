@@ -1,0 +1,53 @@
+[
+  {
+    "id": "123456789",
+    "cover": "https://i.ibb.co/vknjqn8/toy-bricks-table.jpg",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/yXtg73x/khairul.jpg",
+    "title": "Journey into the Unknown",
+    "posted_date": "2024-03-12T10:15:00Z",
+    "reading_time": "15 minutes",
+    "hashtags": ["adventure", "mystery", "exploration"]
+  },
+    {
+      "id": "234567890",
+      "cover": "https://i.ibb.co/BLNQC05/top-view-workspace-with-notebook-succulent-plant.jpg",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/yXtg73x/khairul.jpg",
+      "title": "The Art of Creativity",
+      "posted_date": "2024-03-12T12:30:00Z",
+      "reading_time": "12 minutes",
+      "hashtags": ["creativity", "inspiration", "art"]
+    },
+    {
+      "id": "345678901",
+      "cover": "https://i.ibb.co/R9pkb8Z/top-view-desk-with-office-supplies.jpg",
+      "author": "Bob Smith",
+      "author_img": "https://i.ibb.co/yXtg73x/khairul.jpg",
+      "title": "Tech Trends 2024",
+      "posted_date": "2024-03-12T14:45:00Z",
+      "reading_time": "10 minutes",
+      "hashtags": ["technology", "innovation", "future"]
+    },
+    {
+      "id": "456789012",
+      "cover": "https://i.ibb.co/DKLBpcJ/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "author": "Eva Miller",
+      "author_img": "https://i.ibb.co/yXtg73x/khairul.jpg",
+      "title": "Culinary Delights",
+      "posted_date": "2024-03-12T16:00:00Z",
+      "reading_time": "18 minutes",
+      "hashtags": ["food", "cooking", "recipes"]
+    },
+    {
+      "id": "567890123",
+      "cover": "https://i.ibb.co/RPKvvzJ/vintage-old-rustic-cutlery-dark.jpg",
+      "author": "Charlie Brown",
+      "author_img": "https://i.ibb.co/yXtg73x/khairul.jpg",
+      "title": "Comedy Chronicles",
+      "posted_date": "2024-03-12T18:15:00Z",
+      "reading_time": "14 minutes",
+      "hashtags": ["comedy", "humor", "entertainment"]
+    }
+  ]
+  
